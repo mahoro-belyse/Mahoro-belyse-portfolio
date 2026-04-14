@@ -1,6 +1,6 @@
 # 🌐 Belyse Portfolio
 
-A modern and responsive personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer.
+A modern and responsive personal portfolio showcasing my projects, skills, and experience as a Full Stack Developer.I use react,Typescript,TailwindCSS,EmailJs
 
 ---
 
