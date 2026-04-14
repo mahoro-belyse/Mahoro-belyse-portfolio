@@ -148,8 +148,8 @@ const projects: Project[] = [
     image: me,
     tags: ["React", "TypeScript", "Tailwind", "Framer Motion"],
     category: "Frontend",
-    github: "https://github.com/mahoro-belyse/portfolio",
-    demo: undefined,
+    github: "https://github.com/mahoro-belyse/Mahoro-belyse-portfolio.git",
+    demo: "https://mahoro-belyse-portfolio.netlify.app/",
   },
 ];
 
