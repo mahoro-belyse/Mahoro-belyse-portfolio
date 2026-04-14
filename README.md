@@ -6,7 +6,7 @@ A modern and responsive personal portfolio showcasing my projects, skills, and e
 
 ## 🚀 Live Demo
 
-👉 [View Portfolio](https://your-live-demo-link.com)
+👉 [View Portfolio](https://mahoro-belyse-portfolio.netlify.app/)
 
 ---
 
