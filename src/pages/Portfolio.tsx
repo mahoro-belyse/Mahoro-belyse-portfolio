@@ -52,7 +52,7 @@ const projects: Project[] = [
   {
     title: "Kigali connect (Smart event management)",
     description:
-      "A full-stack, production-grade event management and booking platform built for organizers and attendees across Africa.",
+      "A full-stack,production-grade event management and booking platform built for organizers and attendees across Africa.",
     image: KGLConnect,
     tags: ["React", "FastAPI", "PostgreSQL", "TailwindCSS", "Typescript&Python"],
     category: "Full Stack",
