@@ -16,6 +16,7 @@ import rse from "../assets/project/RSE1.png";
 import stripe from "../assets/project/stripe.png";
 import collab from "../assets/project/teamcollab.png";
 import gov from "../assets/project/goverment.png";
+import KGLConnect from "../assets/project/KGLConnect.png";
 import me from "../assets/project/portfolio.png";
 
 // Types
@@ -47,6 +48,16 @@ const projects: Project[] = [
     github:
       "https://github.com/mahoro-belyse/MKU-Graduands-Clearance-Management-System.git",
     demo: undefined,
+  },
+  {
+    title: "Kigali connect (Smart event management)",
+    description:
+      "A full-stack, production-grade event management and booking platform built for organizers and attendees across Africa.",
+    image: KGLConnect,
+    tags: ["React", "FastAPI", "PostgreSQL", "TailwindCSS", "Typescript&Python"],
+    category: "Full Stack",
+    github: "https://github.com/mahoro-belyse/kigali-Connect.git",
+    demo: "https://kgl-connect.netlify.app",
   },
   {
     title: "Weather App",
