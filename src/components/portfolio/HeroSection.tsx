@@ -5,7 +5,7 @@ import { ArrowDown, Download, MapPin, Sparkles } from "lucide-react";
 import { Button } from "@/components/ui/button";
 import type { ReactElement } from "react";
 import HERO_IMAGE from "../../assets/belyse_Photo.jpeg";
-import CV from "../../assets/Belyse_Cv.pdf";
+import CV from "../../assets/Belyse-CV.pdf";
 
 const ROLES: string[] = [
   "Full Stack Developer",
